@@ -19,7 +19,7 @@ export default function RootLayout({
     <html lang="en">
       <body className={inter.className}>
         <main className="container min-h-screen">{children}</main>
-        <footer className="p-[40] bg-zinc-100 mt-[10px]">
+        <footer className="p-[40] bg-zinc-100 mt-[10px] text-center">
           Made By Fandi
         </footer>
       </body>
