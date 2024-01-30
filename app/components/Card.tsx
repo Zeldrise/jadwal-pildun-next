@@ -8,7 +8,7 @@ interface CardProps{
 
 interface TeamProps {
   team?: Team;
-  isToday: boolean;
+  isToday: any;
 }
 interface VersusProps{
   date?: string;
